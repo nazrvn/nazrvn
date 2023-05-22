@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-développeur passionné par . Actuellement, je suis en formation de développement web chez [O'clock](https://www.oclock.io/), une école réputée pour ses programmes intensifs et pratiques. J'apprends avec enthousiasme les technologies web modernes.
+Passionné par le développement web. Actuellement, en formation chez [O'clock](https://www.oclock.io/), une école réputée pour ses programmes intensifs et pratiques. J'apprends avec enthousiasme les technologies web modernes.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
