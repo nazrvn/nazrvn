@@ -8,4 +8,3 @@
 
 
 ## 🛠 Skills
-NodeJs, Javascript, HTML, CSS
